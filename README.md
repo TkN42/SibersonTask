@@ -11,6 +11,10 @@ read README.pdf
 
 -------------------------------------------------------------
 
+Kurulum dosyaları SetupApp klasörünün içinde bulunmaktadır.
+
+-------------------------------------------------------------
+
 servisi cmd'den başlatma - bitirme = 
 
 cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
