@@ -10,7 +10,7 @@ read README.pdf
 
 -------------------------------------------------------------
 
-servisi cmdden başlatma - bitirme = 
+servisi cmd'den başlatma - bitirme = 
 
 cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
 InstallUtil.exe /i C:\Users\TkN\Source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe
