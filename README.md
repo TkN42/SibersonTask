@@ -1,5 +1,6 @@
 Siberson VeriketApp Task
 
+istenilen Task =
 read README.pdf
 
 -------------------------------------------------------------
